@@ -18,3 +18,8 @@ encoder to achieve the same thing.
 Together with the Amazon dataset, we can learn a lot of incredible new things.
 
 So let's get started.
+`CatBoost features importance:`
+![Screen Shot 2023-04-29 at 3 50 10 pm](https://user-images.githubusercontent.com/48951896/235286220-8003da7f-4034-494c-98c1-e780edb2fa99.png)
+
+`HEatmap of trained.corr`
+![Screen Shot 2023-04-29 at 3 50 40 pm](https://user-images.githubusercontent.com/48951896/235286238-bd34ea97-be71-47b9-80d7-23c2706a21ac.png)
